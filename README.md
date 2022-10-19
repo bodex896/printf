@@ -1,1 +1,1 @@
-2-printf_fun.c
+man_3_printf
